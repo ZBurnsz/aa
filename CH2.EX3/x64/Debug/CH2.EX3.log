@@ -1,0 +1,9 @@
+﻿  CH2.EX3.cpp
+C:\Users\Zach\OneDrive\Desktop\C++\CH2.EX3\CH2.EX3.cpp(17,9): warning C4101: 'coffeeCupCost': unreferenced local variable
+C:\Users\Zach\OneDrive\Desktop\C++\CH2.EX3\CH2.EX3.cpp(15,28): warning C4101: 'travelTime': unreferenced local variable
+C:\Users\Zach\OneDrive\Desktop\C++\CH2.EX3\CH2.EX3.cpp(14,29): warning C4101: 'taxRate': unreferenced local variable
+C:\Users\Zach\OneDrive\Desktop\C++\CH2.EX3\CH2.EX3.cpp(14,9): warning C4101: 'grossSalary': unreferenced local variable
+C:\Users\Zach\OneDrive\Desktop\C++\CH2.EX3\CH2.EX3.cpp(16,6): warning C4101: 'nummOfCoffeeCupSold': unreferenced local variable
+C:\Users\Zach\OneDrive\Desktop\C++\CH2.EX3\CH2.EX3.cpp(14,22): warning C4101: 'bonus': unreferenced local variable
+C:\Users\Zach\OneDrive\Desktop\C++\CH2.EX3\CH2.EX3.cpp(15,9): warning C4101: 'distancedTraveled': unreferenced local variable
+  CH2.EX3.vcxproj -> C:\Users\Zach\OneDrive\Desktop\C++\CH2.EX3\x64\Debug\CH2.EX3.exe
